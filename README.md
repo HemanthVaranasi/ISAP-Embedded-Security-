@@ -35,4 +35,4 @@ Designed specifically for secure communication in resource-constrained IoT envir
 - WSL-based testing files
 
 ## 👨‍💻 Author
-Hemanth Kumar
+Hemanth Kumar Varanasi
