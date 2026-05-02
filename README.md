@@ -4,7 +4,9 @@
 
 This repository presents **SIMD-optimized implementations** of the ISAP (Lightweight Authenticated Encryption) algorithm designed for **resource-constrained embedded systems**.
 
-The optimization leverages **SIMD (Single Instruction, Multiple Data)** techniques along with a **reduced 10-round ASCON permutation** to improve computational efficiency and reduce execution time.
+The optimization leverages **SIMD (Single Instruction, Multiple Data)** techniques along with a **reduced 10-round ASCON permutation** to improve computational efficiency and reduce execution time while maintaining security.
+
+> ⚡ Key Idea: Combining SIMD optimization with reduced-round ASCON permutation for faster lightweight cryptography.
 
 The implementations are developed and benchmarked across:
 
