@@ -155,7 +155,7 @@ g++ isap.cpp -o isap
 
 ## 👨‍💻 Author
 
-**Hemanth Varanasi**
+**Hemanth Kumar Varanasi**
 
 ---
 
